@@ -1,0 +1,8 @@
+mode: set
+go_exercises/071/main.go:5.13,8.2 2 0
+go_exercises/071/main.go:10.28,12.26 2 1
+go_exercises/071/main.go:15.2,15.14 1 1
+go_exercises/071/main.go:12.26,14.3 1 1
+go_exercises/071/main.go:18.28,20.26 2 1
+go_exercises/071/main.go:23.2,23.14 1 1
+go_exercises/071/main.go:20.26,22.3 1 1

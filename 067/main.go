@@ -24,5 +24,5 @@ func main() {
 }
 
 func foo(e error) {
-	fmt.Println("foo ran -", e, "\n")
+	fmt.Println("foo ran -", e)
 }
