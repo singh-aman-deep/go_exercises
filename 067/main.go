@@ -17,7 +17,7 @@ func (ce customErr) Error() string {
 
 func main() {
 	c1 := customErr{
-		info: "need more coffee",
+		info: "need more coffee!!",
 	}
 
 	foo(c1)
